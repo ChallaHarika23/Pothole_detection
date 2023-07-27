@@ -1,5 +1,5 @@
-ROAD OBJECT DETECTION - POTHOLE DETECTION
-INTRODUCTION
+#ROAD OBJECT DETECTION - POTHOLE DETECTION
+##INTRODUCTION
 Road object detection plays a crucial role in various applications. In our project, we specifically focus on the subdomain of pothole detection. Potholes pose a significant challenge for road maintenance and can lead to accidents and vehicle damage. Therefore, efficient and accurate detection of potholes is of utmost importance. To accomplish this, we employ the YOLOv4_tiny algorithm, which stands for You Only Look Once. YOLOv4 is a state-of-the-art real-time object detection algorithm known for its exceptional speed and accuracy. By leveraging YOLOv4_tiny, we aim to detect potholes in road images and videos effectively. Our dataset, sourced from roboflow, provides a diverse collection of annotated images and videos, allowing us to train our model. By employing the YOLOv4_tiny algorithm and utilizing both images and videos, our project aims to contribute to the field of road object detection, specifically in the context of pothole detection.
 
 DATASET
